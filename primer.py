@@ -1,1 +1,1 @@
-print("les'ts do it!")
+print(f"les'ts do it! {'all'.upper()}")
